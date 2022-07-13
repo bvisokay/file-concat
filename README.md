@@ -1,6 +1,6 @@
 # File Concat
 
-- :file_folder: To quickly read the contents of all text (and markdown) files in a folder without opening each one individually
+- :file_folder: Node script to quickly read the contents of all text (and markdown) files in a folder without opening each one individually
 
 ## Supported File Types
 
@@ -8,9 +8,9 @@
 
 - Supported output files types: .txt and .md
 
-## Using the Node Script
+## Usage
 
-- Clone or download the contents of this project
+- Clone the repository
 
 - Copy all the files you would like to combine into the "source-files" folder
 
