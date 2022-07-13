@@ -1,6 +1,6 @@
 # File Concat
 
-- :file_folder: Node script to quickly read the contents of all text (and markdown) files in a folder without opening each one individually
+- :file_folder: Node script to quickly read the contents of multiple text (and markdown) files
 
 ## Supported File Types
 
@@ -11,6 +11,10 @@
 ## Usage
 
 - Clone the repository
+
+```
+git clone https://github.com/Brandon-V/file-concat.git
+```
 
 - Copy all the files you would like to combine into the "source-files" folder
 

@@ -3,7 +3,7 @@ const path = require("path")
 
 const sourceFilePath = path.join(__dirname, "source-files")
 const outputDirectoryPath = path.join(__dirname, "results")
-const outputFileName = "result.md"
+const outputFileName = "results.txt"
 
 // See if there are files in the source-files directory
 fs.readdir(sourceFilePath, (err, files) => {
